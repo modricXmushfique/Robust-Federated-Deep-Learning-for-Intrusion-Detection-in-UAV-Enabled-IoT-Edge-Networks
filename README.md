@@ -1,0 +1,2 @@
+# Robust-Federated-Deep-Learning-for-Intrusion-Detection-in-UAV-Enabled-IoT-Edge-Networks
+A robust federated deep learning-based intrusion detection framework for UAV-enabled IoT edge networks. The proposed approach preserves data privacy while improving resilience against adversarial model updates and non-IID data distributions. Experimental results demonstrate superior detection accuracy and robustness.
